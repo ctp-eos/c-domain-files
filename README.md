@@ -1,5 +1,3 @@
----
-
 # 🌐 C-Domain Global Case Files
 
 **Documenting C-Domain Case Reports Worldwide | Tracking Human Consciousness Expansion | Preparing for the Nth Industrial Revolution**
