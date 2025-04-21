@@ -1,6 +1,3 @@
-# C-domain-Files
-Listing of all C-domain related case files as they come in from around the world
-
 ---
 
 # 🌐 C-Domain Global Case Files
